@@ -1,0 +1,15 @@
+// Custom theme colours
+$primary: #801F4F;
+$secondary: #b9c9b0;
+$success: #829b78;
+$danger: #c87979;
+$warning: #e9d6a8;
+$light: #f8f3ef;
+$dark: #493d43;
+
+// Custom styling
+$border-radius: 0.75rem;
+$border-radius-lg: 1rem;
+
+// Import Bootstrap after customisations
+@import "bootstrap/scss/bootstrap";
